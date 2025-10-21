@@ -89,19 +89,18 @@ The AVL Tree automatically rebalances itself after each insertion.
 
 1. Clone this repository:
 
-   ```bash
-[   git clone https://github.com/yourusername/AVLTreeDemo.git]
-```
+   ```bash [   git clone https://github.com/yourusername/AVLTreeDemo.git]
+   ```
 
-2. Open the project in **Visual Studio** or **VS Code**.
+3. Open the project in **Visual Studio** or **VS Code**.
 
-3. Build and run the project:
+4. Build and run the project:
 
    ```bash
    dotnet run
    ```
 
-4. Observe the console output showing the sorted tree traversal.
+5. Observe the console output showing the sorted tree traversal.
 
 ---
 
