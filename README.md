@@ -90,8 +90,7 @@ The AVL Tree automatically rebalances itself after each insertion.
 1. Clone this repository:
 
    ```bash
-[   git clone https://github.com/yourusername/AVLTreeDemo.git
-](https://github.com/minermikey/Red-Black-Tree.git)
+[   git clone https://github.com/yourusername/AVLTreeDemo.git]
 ```
 
 2. Open the project in **Visual Studio** or **VS Code**.
