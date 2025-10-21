@@ -89,8 +89,8 @@ The AVL Tree automatically rebalances itself after each insertion.
 
 1. Clone this repository:
 
-   ```bash [   git clone https://github.com/yourusername/AVLTreeDemo.git]
-   ```
+  git clone https://github.com/yourusername/AVLTreeDemo.git
+
 
 3. Open the project in **Visual Studio** or **VS Code**.
 
