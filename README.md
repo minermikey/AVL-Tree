@@ -53,21 +53,20 @@ The AVL Tree ensures that the **height difference** (balance factor) between the
 ### Input:
 
 ```csharp
-var tree = new AVLTree();
-tree.Root = tree.Insert(tree.Root, 10);
-tree.Root = tree.Insert(tree.Root, 20);
-tree.Root = tree.Insert(tree.Root, 30);
-tree.Root = tree.Insert(tree.Root, 40);
-tree.Root = tree.Insert(tree.Root, 50);
-tree.Root = tree.Insert(tree.Root, 25);
+int[] values = { 10, 20, 30, 15, 25, 5, 1 };
+            foreach (int val in values)
+            {
+                tree.Insert(val);
+            }
 
-tree.InOrder(tree.Root);
+            Console.WriteLine("In-order traversal with colors:");
+            tree.InOrder(tree.Root);
 ```
 
 ### Output:
 
 ```
-10 20 25 30 40 50
+1(R) 5(B) 10(R) 15(B) 20(B) 25(R) 30(B)
 ```
 
 The AVL Tree automatically rebalances itself after each insertion.
