@@ -1,0 +1,14 @@
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/bin/Debug/net9.0/AVL Trees
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/bin/Debug/net9.0/AVL Trees.deps.json
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/bin/Debug/net9.0/AVL Trees.runtimeconfig.json
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/bin/Debug/net9.0/AVL Trees.dll
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/bin/Debug/net9.0/AVL Trees.pdb
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.AssemblyInfoInputs.cache
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.AssemblyInfo.cs
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.dll
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/refint/AVL Trees.dll
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.pdb
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/AVL Trees.genruntimeconfig.cache
+/Users/michaelsingh/PROG 7312 EB/AVL Trees/obj/Debug/net9.0/ref/AVL Trees.dll
